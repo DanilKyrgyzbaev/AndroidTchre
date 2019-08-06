@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidTchre</string>
+    <string name="launcher_activity">Launcher Activity</string>
+    <string name="intro_activity">Intro Activity</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="next">Next</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="skip">SKIP</string>
+</resources>
